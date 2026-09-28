@@ -1,0 +1,15 @@
+{
+  "name": "shop19",
+  "version": "1.0.0",
+  "description": "This is testing package",
+  "license": "ISC",
+  "author": "Azmaeen",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.49.0"
+  }
+}
